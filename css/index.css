@@ -14,7 +14,7 @@ hr{
     
 }
 h1{
-    font-family: cursive;
+    font-family: Brush Script MT;
     font-stretch: 50%;
     color: #285430;
 }
@@ -23,5 +23,5 @@ h3{
     color: #285430;
 }
 p{
-    font-family: sans-serif;
-}
+    font-family:Georgia, serif;
+};
