@@ -1,0 +1,27 @@
+body{ background-color: #A4BE7B;
+
+}
+hr{
+    
+    border-style: none;
+    border-top: dotted;
+    border-width:5px;
+    border-color: #5F8D4E;
+    height:2px;
+    width: 10%;
+    
+    
+    
+}
+h1{
+    font-family: cursive;
+    font-stretch: 50%;
+    color: #285430;
+}
+h3{
+    font-family: cursive;
+    color: #285430;
+}
+p{
+    font-family: sans-serif;
+}
