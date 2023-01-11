@@ -1,4 +1,4 @@
-body{ background-color: #aec091;
+body{ background-color:#BDD2B6;
     
 
 }
@@ -7,9 +7,9 @@ hr{
     border-style: none;
     border-top: dotted;
     border-width:5px;
-    border-color: #5F8D4E;
+    border-color: #5b6c58;
     height:2px;
-    width: 10%;
+    width: 20%;
     
     
     
@@ -17,13 +17,14 @@ hr{
 h1{
     font-family: 'Courier New', Courier, monospace;
     font-stretch: 50%;
-    color: #285430;
+    color: #7b9477;
 }
 h3{
     font-family:'Courier New', Courier, monospace ;
-    color: #285430;
+    color: #7b9477;
 }
 p{
+    color:#798777 ;
     font-family:Arial, Helvetica, sans-serif;
 }
 table{
