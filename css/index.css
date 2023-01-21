@@ -1,33 +1,143 @@
-body{ background-color: #a2c19c;
-    
+ body {
+     background-color: #a2c19c;
 
-}
-hr{
-    
-    border-style: none;
-    border-top: dotted;
-    border-width:5px;
-    border-color: #5b6c58;
-    height:2px;
-    width: 20%;
-    
-    
-    
-}
-h1{
-    font-family: 'Courier New', Courier, monospace;
-    font-stretch: 50%;
-    color: #3e6438;
-}
-h3{
-    font-family:'Courier New', Courier, monospace ;
-    color: #3e6438;
-}
-p{
-    color:#2e382c ;
-    font-family:Arial, Helvetica, sans-serif;
-}
-table{
-    font-family: Arial, Helvetica, sans-serif;
-}
 
+ }
+
+ hr {
+
+     border-style: none;
+     border-top: dotted;
+     border-width: 5px;
+     border-color: #5b6c58;
+     height: 2px;
+     width: 20%;
+
+
+
+ }
+
+ h1 {
+
+     font-family: 'Courier New', Courier, monospace;
+     font-stretch: 50%;
+     color: #3e6438;
+ }
+
+ h3 {
+     font-family: 'Courier New', Courier, monospace;
+     color: #3e6438;
+ }
+
+ p {
+     color: #2e382c;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+
+ table {
+     font-family: Arial, Helvetica, sans-serif;
+ }
+ .personal{
+    margin-left: 260px;
+ }
+
+
+
+ .about_me {
+     margin-left: 560px;
+     margin-right: 120px;
+ }
+
+ .personal_image {
+     margin-top: 30px;
+     margin-right: 560px;
+     margin-left: 120px;
+ }
+
+
+ .education_grades {
+     margin-left: 560px;
+     margin-right: 120px;
+
+ }
+
+ .skillstab {
+     margin-left: 400px;
+     ;
+ }
+
+ .skilllogo {
+     margin-left: 400px;
+ }
+
+ .edu_image {
+
+     margin-right: 560px;
+     margin-left: 120px;
+
+
+
+ }
+
+ .skill_image {
+
+     margin-right: 560px;
+     margin-left: 120px;
+ }
+
+ .skills {
+     margin-left: 560px;
+     margin-right: 120px;
+     margin-bottom: 40px;
+ }
+
+ .hobbies {
+     margin-left: 560px;
+     margin-right: 120px;
+ }
+
+ .hobbies_img {
+
+     margin-right: 560px;
+     margin-left: 120px;
+
+ }
+
+ .works {
+     margin-left: 560px;
+     margin-right: 120px;
+ }
+
+ .works_img {
+
+     margin-right: 560px;
+     margin-left: 120px;
+ }
+
+
+ .contact_me {
+     margin-left: 560px;
+     margin-right: 120px;
+
+ }
+
+ .contact_img {
+
+     margin-right: 560px;
+     margin-left: 120px;
+ }
+ .edu{
+    margin-left: 400px;
+ }
+ .edutab{
+    margin-left: 220px;
+ }
+ .grdtab{
+    margin-left: 220px;
+ }
+ .kouta{
+    margin-left: 150px;
+ }
+ .lang{
+    margin-left: 400px;
+ }
