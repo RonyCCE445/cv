@@ -1,5 +1,5 @@
  body {
-     background-color: #a2c19c;
+     background-color: #F8F0DF;
 
 
  }
@@ -9,7 +9,7 @@
      border-style: none;
      border-top: dotted;
      border-width: 5px;
-     border-color: #5b6c58;
+     border-color: #747574;
      height: 2px;
      width: 20%;
 
@@ -21,16 +21,17 @@
 
      font-family: 'Courier New', Courier, monospace;
      font-stretch: 50%;
-     color: #3e6438;
+     color: #F86F03;
+     font-size:60px;
  }
 
  h3 {
      font-family: 'Courier New', Courier, monospace;
-     color: #3e6438;
+     color: #F86F03;
  }
 
  p {
-     color: #2e382c;
+     color: #727171;
      font-family: Arial, Helvetica, sans-serif;
  }
 
